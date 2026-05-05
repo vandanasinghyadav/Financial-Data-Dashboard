@@ -58,4 +58,4 @@ The dashboard helps analyze the company’s financial performance over the last 
 
 ## Author
 Vandana Singh Yadav
-Aspiring Data Analyst
+Data Analyst
