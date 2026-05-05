@@ -19,3 +19,5 @@ This project is created in Microsoft Excel.
 
 
 ![Dashboard](dashboard-preview.png.png)
+![Dashboard](dashboard-preview1.png.png)
+![Dashboard](dashboard-preview2.png.png)
