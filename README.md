@@ -18,4 +18,4 @@ This project is created in Microsoft Excel.
 ## Dashboard Preview
 
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](dashboard-preview.png.png)
