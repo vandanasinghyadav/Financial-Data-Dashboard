@@ -14,3 +14,7 @@ This project is created in Microsoft Excel.
 - Pivot Table
 - Charts
 - Conditional Formatting
+
+## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
